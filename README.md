@@ -6,3 +6,4 @@
 [`beautifulsoup`解析html](using_soup/beautifulhtml.ipynb)
 [`beatifulsoup`的prettify功能](using_soup/prettify.ipynb)
 [信息标记](信息标记/note.md)
+[beautifulsoup进阶查找和re](using_soup/searchtag.ipynb)
